@@ -1,4 +1,4 @@
-Image Base Captcha 
+# Image Base Captcha 
 
 CAPTCHA : A CAPTCHA is a type of challenge-response 
 test used in computing to determine whether or not the 
